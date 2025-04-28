@@ -1,1 +1,2 @@
 leaning jenkins
+Jenkins is automating our task
